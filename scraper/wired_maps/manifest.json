@@ -1,0 +1,637 @@
+{
+  "source_url": "https://www.wired.com/story/how-israeli-checkpoints-choke-palestinian-life-occupied-west-bank/",
+  "city_pings": [
+    {
+      "city": "Nablus",
+      "cx": 781,
+      "cy": 325
+    },
+    {
+      "city": "Ramallah",
+      "cx": 745,
+      "cy": 563
+    },
+    {
+      "city": "Jericho",
+      "cx": 931,
+      "cy": 600
+    },
+    {
+      "city": "Jerusalem",
+      "cx": 745,
+      "cy": 665
+    },
+    {
+      "city": "Bethlehem",
+      "cx": 735,
+      "cy": 708
+    },
+    {
+      "city": "Hebron",
+      "cx": 654,
+      "cy": 841
+    },
+    {
+      "city": "Qalqilya",
+      "cx": 562,
+      "cy": 350
+    },
+    {
+      "city": "Jenin",
+      "cx": 812,
+      "cy": 150
+    }
+  ],
+  "map_layers": [
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/index-BAqyaIoY.js",
+      "file": "other/index-BAqyaIoY.js",
+      "bytes": 347585
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/index-DHbhZOel.css",
+      "file": "other/index-DHbhZOel.css",
+      "bytes": 94175
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/WIRED-West-Bank-TA-Final-01-B5gLthe0.webp",
+      "file": "other/WIRED-West-Bank-TA-Final-01-B5gLthe0.webp",
+      "bytes": 325986
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/WIRED-West-Bank-TA-Final-02-D5RoSIeF.webp",
+      "file": "other/WIRED-West-Bank-TA-Final-02-D5RoSIeF.webp",
+      "bytes": 363336
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/WIRED-West-Bank-TA-Final-03-Ct2Cp00X.webp",
+      "file": "other/WIRED-West-Bank-TA-Final-03-Ct2Cp00X.webp",
+      "bytes": 152336
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/WIRED-West-Bank-TA-Final-04-DT1XidIo.webp",
+      "file": "other/WIRED-West-Bank-TA-Final-04-DT1XidIo.webp",
+      "bytes": 134554
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/map-lg-00-B9MHVEec.webp",
+      "file": "map_base/map-lg-00-B9MHVEec.webp",
+      "bytes": 625188
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/map-med-00-CKMYig5L.webp",
+      "file": "map_base/map-med-00-CKMYig5L.webp",
+      "bytes": 484474
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/map-00-UbS7GRoO.webp",
+      "file": "map_base/map-00-UbS7GRoO.webp",
+      "bytes": 631240
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/overlay-lg-00-0R9PLkKv.webp",
+      "file": "overlay/overlay-lg-00-0R9PLkKv.webp",
+      "bytes": 72526
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/overlay-med-00-CjaHUo0b.webp",
+      "file": "overlay/overlay-med-00-CjaHUo0b.webp",
+      "bytes": 72698
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/overlay-00-Dgopdulq.webp",
+      "file": "overlay/overlay-00-Dgopdulq.webp",
+      "bytes": 68478
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/map-lg-01-DRVAQj_Q.webp",
+      "file": "map_base/map-lg-01-DRVAQj_Q.webp",
+      "bytes": 611186
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/map-med-01-HoEim22f.webp",
+      "file": "map_base/map-med-01-HoEim22f.webp",
+      "bytes": 438252
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/map-01-DWJaJs13.webp",
+      "file": "map_base/map-01-DWJaJs13.webp",
+      "bytes": 618840
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/overlay-lg-01-CWz265PM.webp",
+      "file": "overlay/overlay-lg-01-CWz265PM.webp",
+      "bytes": 75346
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/overlay-med-01-rUXdTvlQ.webp",
+      "file": "overlay/overlay-med-01-rUXdTvlQ.webp",
+      "bytes": 81280
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/overlay-01-CHpy8Cov.webp",
+      "file": "overlay/overlay-01-CHpy8Cov.webp",
+      "bytes": 66846
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/map-lg-02-Msohi4EA.webp",
+      "file": "map_base/map-lg-02-Msohi4EA.webp",
+      "bytes": 583292
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/map-med-02-BmKO7wln.webp",
+      "file": "map_base/map-med-02-BmKO7wln.webp",
+      "bytes": 454800
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/map-02-HHa2XBKW.webp",
+      "file": "map_base/map-02-HHa2XBKW.webp",
+      "bytes": 579832
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/overlay-lg-02-1EqsC7CI.webp",
+      "file": "overlay/overlay-lg-02-1EqsC7CI.webp",
+      "bytes": 77034
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/overlay-med-02-xbngEX8k.webp",
+      "file": "overlay/overlay-med-02-xbngEX8k.webp",
+      "bytes": 82872
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/overlay-02-BzjP67bv.webp",
+      "file": "overlay/overlay-02-BzjP67bv.webp",
+      "bytes": 68006
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/map-lg-03-B_qmgLxz.webp",
+      "file": "map_base/map-lg-03-B_qmgLxz.webp",
+      "bytes": 620096
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/map-med-03-DS4jhLVp.webp",
+      "file": "map_base/map-med-03-DS4jhLVp.webp",
+      "bytes": 465536
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/map-03-CmsRtXi-.webp",
+      "file": "map_base/map-03-CmsRtXi-.webp",
+      "bytes": 601060
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/overlay-lg-03-uLMqRl_M.webp",
+      "file": "overlay/overlay-lg-03-uLMqRl_M.webp",
+      "bytes": 77124
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/overlay-med-03--YXtCJdS.webp",
+      "file": "overlay/overlay-med-03--YXtCJdS.webp",
+      "bytes": 83530
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/overlay-03-BUIkoHXu.webp",
+      "file": "overlay/overlay-03-BUIkoHXu.webp",
+      "bytes": 67810
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/SH_PRL_Nablus%20and%20Hebron-72-1600-DLm_YCpm.webp",
+      "file": "route/SH_PRL_Nablus%20and%20Hebron-72-1600-DLm_YCpm.webp",
+      "bytes": 396236
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/map-xs-00-DsFXMg1P.webp",
+      "file": "map_base/map-xs-00-DsFXMg1P.webp",
+      "bytes": 147422
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/map-sm-00-2BoxXnhb.webp",
+      "file": "map_base/map-sm-00-2BoxXnhb.webp",
+      "bytes": 276482
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/overlay-xs-00-WyaMvJ2R.webp",
+      "file": "overlay/overlay-xs-00-WyaMvJ2R.webp",
+      "bytes": 31828
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/overlay-sm-00-Bhtnlllz.webp",
+      "file": "overlay/overlay-sm-00-Bhtnlllz.webp",
+      "bytes": 41960
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/map-xs-01-BmGM5N9R.webp",
+      "file": "map_base/map-xs-01-BmGM5N9R.webp",
+      "bytes": 131544
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/map-sm-01-BSOkyHTR.webp",
+      "file": "map_base/map-sm-01-BSOkyHTR.webp",
+      "bytes": 248334
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/overlay-xs-01-CKRjJArQ.webp",
+      "file": "overlay/overlay-xs-01-CKRjJArQ.webp",
+      "bytes": 36024
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/overlay-sm-01-C6w19fNL.webp",
+      "file": "overlay/overlay-sm-01-C6w19fNL.webp",
+      "bytes": 38772
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/map-lg-04-BIQkd_-_.webp",
+      "file": "map_base/map-lg-04-BIQkd_-_.webp",
+      "bytes": 530598
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/map-med-04-C_FPJgZU.webp",
+      "file": "map_base/map-med-04-C_FPJgZU.webp",
+      "bytes": 390926
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/map-sm-02-BVzxhhKX.webp",
+      "file": "map_base/map-sm-02-BVzxhhKX.webp",
+      "bytes": 245108
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/map-xs-02-BKeFg9L6.webp",
+      "file": "map_base/map-xs-02-BKeFg9L6.webp",
+      "bytes": 129894
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/map-04-BP-gG_Gj.webp",
+      "file": "map_base/map-04-BP-gG_Gj.webp",
+      "bytes": 532494
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/overlay-lg-04-BmienHvw.webp",
+      "file": "overlay/overlay-lg-04-BmienHvw.webp",
+      "bytes": 60776
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/overlay-med-04-D8ksvN4-.webp",
+      "file": "overlay/overlay-med-04-D8ksvN4-.webp",
+      "bytes": 85950
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/overlay-sm-02-CSH44Jgg.webp",
+      "file": "overlay/overlay-sm-02-CSH44Jgg.webp",
+      "bytes": 39980
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/overlay-xs-02-CD9DG8ic.webp",
+      "file": "overlay/overlay-xs-02-CD9DG8ic.webp",
+      "bytes": 40910
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/overlay-04-CSyR8PH7.webp",
+      "file": "overlay/overlay-04-CSyR8PH7.webp",
+      "bytes": 150640
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/map-lg-cpoverlay-04-B9LNhlGH.webp",
+      "file": "map_base/map-lg-cpoverlay-04-B9LNhlGH.webp",
+      "bytes": 8926
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/map-med-cpoverlay-DSCN_w-y.webp",
+      "file": "map_base/map-med-cpoverlay-DSCN_w-y.webp",
+      "bytes": 6754
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/map-sm-cpoverlay-B4g9v0Bv.webp",
+      "file": "map_base/map-sm-cpoverlay-B4g9v0Bv.webp",
+      "bytes": 4296
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/roads-mobile-GPWAfsPL.webp",
+      "file": "other/roads-mobile-GPWAfsPL.webp",
+      "bytes": 337672
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/roads-CJawHWz2.webp",
+      "file": "infrastructure/roads-CJawHWz2.webp",
+      "bytes": 427688
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/spider-allWB-C3okdriP.webp",
+      "file": "infrastructure/spider-allWB-C3okdriP.webp",
+      "bytes": 449016
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/checkpoints-colour-coded-mobile-s-nz41nv.webp",
+      "file": "checkpoint_layer/checkpoints-colour-coded-mobile-s-nz41nv.webp",
+      "bytes": 55992
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/checkpoints-colour-coded-YQKJJZMq.webp",
+      "file": "checkpoint_layer/checkpoints-colour-coded-YQKJJZMq.webp",
+      "bytes": 87728
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/checkpoints-23-25-mobile-Dm0yuRwk.webp",
+      "file": "checkpoint_layer/checkpoints-23-25-mobile-Dm0yuRwk.webp",
+      "bytes": 44866
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/checkpoints-23-25-DafgoG3-.webp",
+      "file": "checkpoint_layer/checkpoints-23-25-DafgoG3-.webp",
+      "bytes": 64172
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/borders-C768_TvV.svg",
+      "file": "svg/borders-C768_TvV.svg",
+      "bytes": 113742
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/borders-thin-BhGX-ftI.svg",
+      "file": "svg/borders-thin-BhGX-ftI.svg",
+      "bytes": 113742
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/Ramallah-AlEizariya_circuitous-mobile-Djc0XDV_.webp",
+      "file": "route/Ramallah-AlEizariya_circuitous-mobile-Djc0XDV_.webp",
+      "bytes": 41224
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/Ramallah-AlEizariya_circuitous-HRuJqClW.webp",
+      "file": "route/Ramallah-AlEizariya_circuitous-HRuJqClW.webp",
+      "bytes": 106378
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/Ramallah-AlEizariya_reference-mobile-B49gsOXw.webp",
+      "file": "route/Ramallah-AlEizariya_reference-mobile-B49gsOXw.webp",
+      "bytes": 8600
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/Ramallah-AlEizariya_reference-C2Uewd6R.webp",
+      "file": "route/Ramallah-AlEizariya_reference-C2Uewd6R.webp",
+      "bytes": 26672
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/Ramallah-AlEizariya_median-mobile-BASBeZXe.webp",
+      "file": "route/Ramallah-AlEizariya_median-mobile-BASBeZXe.webp",
+      "bytes": 10648
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/Ramallah-AlEizariya_median-B45DbOf3.webp",
+      "file": "route/Ramallah-AlEizariya_median-B45DbOf3.webp",
+      "bytes": 30130
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/Ramallah-Hebron-mobile-CWgYRrEE.webp",
+      "file": "route/Ramallah-Hebron-mobile-CWgYRrEE.webp",
+      "bytes": 18688
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/Ramallah-Hebron-BaS63h-n.webp",
+      "file": "route/Ramallah-Hebron-BaS63h-n.webp",
+      "bytes": 43280
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/Anabta-BeitLid-direct-mobile-DmOruKi0.webp",
+      "file": "route/Anabta-BeitLid-direct-mobile-DmOruKi0.webp",
+      "bytes": 6544
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/Anabta-BeitLid-direct-DH7avwWI.webp",
+      "file": "route/Anabta-BeitLid-direct-DH7avwWI.webp",
+      "bytes": 23706
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/Anabta-BeitLid-mobile-C-qLkjEX.webp",
+      "file": "route/Anabta-BeitLid-mobile-C-qLkjEX.webp",
+      "bytes": 8646
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/Anabta-BeitLid-BKteTs8O.webp",
+      "file": "route/Anabta-BeitLid-BKteTs8O.webp",
+      "bytes": 26838
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/WI_FF_WestBank_Article_Spot-01-CeGFpLlj.webp",
+      "file": "other/WI_FF_WestBank_Article_Spot-01-CeGFpLlj.webp",
+      "bytes": 115376
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/roads-mobile-CW_3hVvj.webp",
+      "file": "other/roads-mobile-CW_3hVvj.webp",
+      "bytes": 568234
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/roads-HWVrMv80.webp",
+      "file": "other/roads-HWVrMv80.webp",
+      "bytes": 567514
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/border-mobile-B_VjPIK1.webp",
+      "file": "other/border-mobile-B_VjPIK1.webp",
+      "bytes": 20788
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/border-Ca6p6zYl.webp",
+      "file": "other/border-Ca6p6zYl.webp",
+      "bytes": 35412
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/AlJaniya-Birzeit-actual-mobile-BYdxISP5.webp",
+      "file": "other/AlJaniya-Birzeit-actual-mobile-BYdxISP5.webp",
+      "bytes": 15234
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/AlJaniya-Birzeit-actual-BCqcpCYQ.webp",
+      "file": "other/AlJaniya-Birzeit-actual-BCqcpCYQ.webp",
+      "bytes": 36850
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/AlJaniya-Birzeit-direct-mobile-DTKhiXDM.webp",
+      "file": "other/AlJaniya-Birzeit-direct-mobile-DTKhiXDM.webp",
+      "bytes": 9502
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/AlJaniya-Birzeit-direct-Cc4r5lxW.webp",
+      "file": "other/AlJaniya-Birzeit-direct-Cc4r5lxW.webp",
+      "bytes": 27840
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/aljaniyah_alquds_uni_actual-mobile-D604dK5D.webp",
+      "file": "other/aljaniyah_alquds_uni_actual-mobile-D604dK5D.webp",
+      "bytes": 22398
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/aljaniyah_alquds_uni_actual-oW54nnfW.webp",
+      "file": "other/aljaniyah_alquds_uni_actual-oW54nnfW.webp",
+      "bytes": 46912
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/AlJaniya-AlQuds-direct-mobile-CDuSmVIx.webp",
+      "file": "other/AlJaniya-AlQuds-direct-mobile-CDuSmVIx.webp",
+      "bytes": 18246
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/AlJaniya-AlQuds-direct-BkGQcS1b.webp",
+      "file": "other/AlJaniya-AlQuds-direct-BkGQcS1b.webp",
+      "bytes": 39388
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/AlJaniya-Birzeit-end-point-mobile-FsLDE1W-.webp",
+      "file": "other/AlJaniya-Birzeit-end-point-mobile-FsLDE1W-.webp",
+      "bytes": 5974
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/AlJaniya-Birzeit-end-point-KWZAW7YG.webp",
+      "file": "other/AlJaniya-Birzeit-end-point-KWZAW7YG.webp",
+      "bytes": 22774
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/aljaniyah_alquds_uni-end-points-mobile-Cb6V93uw.webp",
+      "file": "other/aljaniyah_alquds_uni-end-points-mobile-Cb6V93uw.webp",
+      "bytes": 5980
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/aljaniyah_alquds_uni-end-points-CImTSF8w.webp",
+      "file": "other/aljaniyah_alquds_uni-end-points-CImTSF8w.webp",
+      "bytes": 22888
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/WI_FF_WestBank_Article_Spot-02-BZP-mxYg.webp",
+      "file": "other/WI_FF_WestBank_Article_Spot-02-BZP-mxYg.webp",
+      "bytes": 104788
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/GettyImages-543913394-1600-Bey5vIJg.webp",
+      "file": "other/GettyImages-543913394-1600-Bey5vIJg.webp",
+      "bytes": 251854
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/WI_FF_WestBank_Article_Spot-03-K6aUUOCe.webp",
+      "file": "other/WI_FF_WestBank_Article_Spot-03-K6aUUOCe.webp",
+      "bytes": 59218
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/divide-1-mobile-zec6vE-h.webp",
+      "file": "other/divide-1-mobile-zec6vE-h.webp",
+      "bytes": 34344
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/divide-1-gGBK9P8s.webp",
+      "file": "other/divide-1-gGBK9P8s.webp",
+      "bytes": 62454
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/divide-2-mobile-BlRUrw3F.webp",
+      "file": "other/divide-2-mobile-BlRUrw3F.webp",
+      "bytes": 17660
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/divide-2-MYyzFs0w.webp",
+      "file": "other/divide-2-MYyzFs0w.webp",
+      "bytes": 42692
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/detour-1-mobile-EBqUueiY.webp",
+      "file": "other/detour-1-mobile-EBqUueiY.webp",
+      "bytes": 9358
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/detour-1-BZcPaGqV.webp",
+      "file": "other/detour-1-BZcPaGqV.webp",
+      "bytes": 27834
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/detour-2-mobile-BsFb2y5g.webp",
+      "file": "other/detour-2-mobile-BsFb2y5g.webp",
+      "bytes": 12364
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/detour-2-Cff_RAh_.webp",
+      "file": "other/detour-2-Cff_RAh_.webp",
+      "bytes": 33910
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/enclosure-1-mobile-BfXIRFFa.webp",
+      "file": "other/enclosure-1-mobile-BfXIRFFa.webp",
+      "bytes": 12514
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/enclosure-1-DV270TxV.webp",
+      "file": "other/enclosure-1-DV270TxV.webp",
+      "bytes": 32138
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/enclosure-2-mobile-zA8oMZ3q.webp",
+      "file": "other/enclosure-2-mobile-zA8oMZ3q.webp",
+      "bytes": 14670
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/enclosure-2-CoJ_v-s6.webp",
+      "file": "other/enclosure-2-CoJ_v-s6.webp",
+      "bytes": 39128
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/enclosure-3-mobile-CyxGIv6y.webp",
+      "file": "other/enclosure-3-mobile-CyxGIv6y.webp",
+      "bytes": 10410
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/enclosure-3-C1-XDq3X.webp",
+      "file": "other/enclosure-3-C1-XDq3X.webp",
+      "bytes": 31456
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/divide-end-points-mobile-Bp-iYJy3.webp",
+      "file": "other/divide-end-points-mobile-Bp-iYJy3.webp",
+      "bytes": 7652
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/divide-end-points-nJJ21vrn.webp",
+      "file": "other/divide-end-points-nJJ21vrn.webp",
+      "bytes": 25072
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/detour-end-points-mobile-WZtiyJHh.webp",
+      "file": "other/detour-end-points-mobile-WZtiyJHh.webp",
+      "bytes": 5974
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/detour-end-points-CdySI9Z8.webp",
+      "file": "other/detour-end-points-CdySI9Z8.webp",
+      "bytes": 22772
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/enclosure-end-points-mobile-Bzqm3gMb.webp",
+      "file": "other/enclosure-end-points-mobile-Bzqm3gMb.webp",
+      "bytes": 6366
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/enclosure-end-points-BASNUar8.webp",
+      "file": "other/enclosure-end-points-BASNUar8.webp",
+      "bytes": 23332
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/WI_FF_WestBank_Article_Spot-06-auF1T_DB.webp",
+      "file": "other/WI_FF_WestBank_Article_Spot-06-auF1T_DB.webp",
+      "bytes": 88728
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/WI_FF_WestBank_Article_Spot-04-Ce0uIGBU.webp",
+      "file": "other/WI_FF_WestBank_Article_Spot-04-Ce0uIGBU.webp",
+      "bytes": 87066
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/sama-factory-photo-B3ZD7YoQ.webp",
+      "file": "other/sama-factory-photo-B3ZD7YoQ.webp",
+      "bytes": 140256
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/WI_FF_WestBank_Article_Spot-05-BZHZTeLJ.webp",
+      "file": "other/WI_FF_WestBank_Article_Spot-05-BZHZTeLJ.webp",
+      "bytes": 75926
+    },
+    {
+      "url": "https://pub-ce74e6c9659b4aa18a44457c124e8a9b.r2.dev/feature/assets/SH_PRL_Nablus%20and%20Hebron-53-1600-CF9KIvZq.webp",
+      "file": "route/SH_PRL_Nablus%20and%20Hebron-53-1600-CF9KIvZq.webp",
+      "bytes": 456952
+    }
+  ]
+}
